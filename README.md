@@ -3,7 +3,7 @@ This project is a classic Snake game implementation using fundamental web techno
 
 🐍🐍🐉🐉
 
-link:🐍https://software-lab69.github.io/Snake-Game-using-Html-Css-JavaScript/🐍
+link:🐍https://expert-computing-machine-5wv654rwqq5cp697-5500.app.github.dev/New%20folder/🐍
 
 Features:
 
