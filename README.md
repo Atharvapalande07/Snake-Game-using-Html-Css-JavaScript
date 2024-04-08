@@ -2,7 +2,9 @@
 This project is a classic Snake game implementation using fundamental web technologies: HTML, CSS, and JavaScript. It provides a nostalgic and engaging gaming experience playable directly in your web browser.
 
 🐍🐍🐉🐉
-link:🐍🐍
+
+link:🐍https://software-lab69.github.io/Snake-Game-using-Html-Css-JavaScript/🐍
+
 Features:
 
 Classic Gameplay: Control a snake that grows longer by consuming food items scattered across the game board.
