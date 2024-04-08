@@ -3,8 +3,6 @@ This project is a classic Snake game implementation using fundamental web techno
 
 🐍🐍🐉🐉
 
-link:🐍https://expert-computing-machine-5wv654rwqq5cp697-5500.app.github.dev/New%20folder/🐍
-
 Features:
 
 Classic Gameplay: Control a snake that grows longer by consuming food items scattered across the game board.
