@@ -1,8 +1,8 @@
-# Snake-Game-using-Html-Css-JavaScript
+# 🐍🐍Snake-Game-using-Html-Css-JavaScript🐉🐉
 This project is a classic Snake game implementation using fundamental web technologies: HTML, CSS, and JavaScript. It provides a nostalgic and engaging gaming experience playable directly in your web browser.
 
-link:
-🐍🐍https://software-lab69.github.io/Snake-Game-using-Html-Css-JavaScript/🐉🐉
+
+
 
 Features:
 
